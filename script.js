@@ -42,7 +42,7 @@
 //       alert('Вход отменен')
 //   }
 //}
-//else if (nameAdmin = '') {
+//else if (nameAdmin == '') {
 //    alert('Вход отменен!');
 //} else {
 //    alert('Я вас не знаю');
